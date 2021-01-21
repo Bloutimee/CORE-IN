@@ -1,0 +1,8 @@
+main: com.iodefaction.core.bungee.Core
+name: Core
+author: Comore
+version: 1.0
+depends: [API]
+commands:
+  ping:
+  staff:

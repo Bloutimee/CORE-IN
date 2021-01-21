@@ -1,0 +1,5 @@
+main: com.iodefaction.core.bukkit.Core
+name: Core
+author: Bloutime et Comore
+version: 1.0
+depend: [API]
